@@ -1,0 +1,20 @@
+{
+  "name": "baas-utils",
+  "version": "1.0.1",
+  "description": "Project minimal for Testing",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "scripts": {
+    "build": "tsup",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Carlos Pierre Barros",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "tsup": "^8.3.6",
+    "typescript": "^5.7.3"
+  }
+}
