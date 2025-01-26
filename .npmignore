@@ -7,7 +7,7 @@
 .env.example
 
 .DS_Store
-
+.vscode
 tsconfig.json
 tsup.config.js
 

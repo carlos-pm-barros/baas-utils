@@ -4,3 +4,4 @@
 .env.development
 .env.development.local
 .DS_Store
+.vscode
